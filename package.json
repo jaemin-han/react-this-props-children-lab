@@ -8,7 +8,7 @@
     "mocha": "^3.2.0",
     "react-scripts": "^1.0.7",
     "react-test-renderer": "^16.0.0",
-    "webpack": "^3.6.0",
+    "webpack": "^3.11.0",
     "webpack-dev-server": "^2.9.1"
   },
   "dependencies": {
@@ -19,6 +19,7 @@
     "babel-preset-react": "^6.22.0",
     "babel-preset-stage-1": "^6.24.1",
     "chai": "^3.5.0",
+    "create-react-app": "^1.5.2",
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.1",
     "expect": "^21.2.1",
